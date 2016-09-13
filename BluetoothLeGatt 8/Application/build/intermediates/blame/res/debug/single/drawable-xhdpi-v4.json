@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_gif_6.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_gif_6.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/end_button_default.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/end_button_default.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/popup_card_2.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/popup_card_2.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/start_button.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/start_button.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/orange_circle.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/orange_circle.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/start_button_default.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/start_button_default.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reset_button_default.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/reset_button_default.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_bar_default.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/progress_bar_default.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/three_times_white.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/three_times_white.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/end_button_selected.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/end_button_selected.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/test.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/test.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/popup_card_1.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/popup_card_1.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/card_exercise_list.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/card_exercise_list.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/three_orange.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/three_orange.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radio_button_selected.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/radio_button_selected.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_record.jpg",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_record.jpg"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radio_button_default.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/radio_button_default.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_gif_1.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_gif_1.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/calendar_arrow_right.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/two_orange_one_white.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/two_orange_one_white.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selected_card_shadow.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/selected_card_shadow.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_cursor_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/title_bar_bg.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/title_bar_bg.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/popup_card_6.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/popup_card_6.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_summary_card.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_summary_card.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/start_box.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/start_box.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/popup_card_3.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/popup_card_3.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/one_orange_two_grey.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/one_orange_two_grey.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/highlight_bar.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/highlight_bar.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_not_selected.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/tab_not_selected.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/end_button.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/end_button.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/close_icon.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/close_icon.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/info_icon.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/info_icon.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/one_orange_two_white.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/one_orange_two_white.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/reset_button_selected.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/reset_button_selected.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/three_times_grey.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/three_times_grey.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_gif_3.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_gif_3.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tab_selected.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/tab_selected.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/three_times.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/three_times.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/start_button_selected.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/start_button_selected.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selected_end_button.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/selected_end_button.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/popup_card_5.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/popup_card_5.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/setting_icon.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/setting_icon.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/blue_circle.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/blue_circle.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_gif_4.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_gif_4.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/hamburger_menu.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/hamburger_menu.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/calendar_arrow_left.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/text_underline.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/text_underline.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/popup_card_4.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/popup_card_4.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_count_card.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_count_card.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selected_shadow.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/selected_shadow.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_gif_2.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_gif_2.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/finished_exercise_3times.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/finished_exercise_3times.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/exercise_gif_5.gif",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/exercise_gif_5.gif"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/setting.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/setting.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/two_orange_one_grey.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable-xhdpi/two_orange_one_grey.png"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png"
+    }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#bb000000"
+    android:onClick="onClick">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/popup_card_1"
+            android:id="@+id/exercise_explain"/>
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/exercise_explain"
+            android:layout_centerHorizontal="true"
+            android:paddingBottom="10.25dp"
+            android:src="@drawable/close_icon"
+            android:background="@null"
+            android:onClick="onClick"
+            android:id="@+id/info_close_btn"/>
+    </RelativeLayout>
+</RelativeLayout>

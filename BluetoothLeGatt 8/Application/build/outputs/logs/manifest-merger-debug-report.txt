@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:19:1-59:12
+	package
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:20:5-50
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:19:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:36:5-89
+	android:required
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:36:64-87
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:36:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:37:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:38:5-73
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:38:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:39:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:40:5-66
+MERGED from [com.koushikdutta.ion:ion:2.1.9] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.1.9] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:40:22-64
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:41:5-76
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:41:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:42:5-77
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:42:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:43:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:44:5-74
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:44:22-72
+application
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:45:5-58:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.koushikdutta.ion:ion:2.1.9] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.1.9] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/AndroidManifest.xml:13:5-14:19
+	android:label
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:45:18-50
+	android:allowBackup
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:48:9-35
+	android:icon
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:46:9-45
+	android:theme
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:47:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:49:9-55:20
+	android:label
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:49:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:53:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:56:9-106
+	android:theme
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:56:57-104
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:56:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:57:9-77
+	android:enabled
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:57:53-75
+	android:name
+		ADDED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml:57:18-52
+uses-sdk
+INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [BluetoothLeGatt 8:caldroid:unspecified] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.koushikdutta.ion:ion:2.1.9] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.1.9] /Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/AndroidManifest.xml

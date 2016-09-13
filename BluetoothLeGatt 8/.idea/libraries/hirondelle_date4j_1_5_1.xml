@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hirondelle-date4j-1.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caldroid/libs/hirondelle-date4j-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

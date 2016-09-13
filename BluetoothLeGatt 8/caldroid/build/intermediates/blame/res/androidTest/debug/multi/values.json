@@ -1,0 +1,799 @@
+[
+    {
+        "outputFile": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 60,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 60,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 60,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 60,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 61,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 61,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 61,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 61,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 61,
+                    "endOffset": 418
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 361,
+                        "endColumn": 61,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 423,
+                    "endColumn": 61,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 61,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 62,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 62,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 43,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 43,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 43,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 43,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 48,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 48,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 51,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 51,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 44,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 44,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 59,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 59,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 60,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 60,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 52,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 52,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 52,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 52,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 54,
+                    "endOffset": 1059
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1009,
+                        "endColumn": 54,
+                        "endOffset": 1059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1064,
+                    "endColumn": 53,
+                    "endOffset": 1113
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 53,
+                        "endOffset": 1113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1118,
+                    "endColumn": 56,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1118,
+                        "endColumn": 56,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 48,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 48,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endColumn": 44,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1614,
+                        "endColumn": 44,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2382
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2387,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2566
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2387,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2571,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2878
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2571,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2883,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3165
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2883,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3170,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3170,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 3689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 3827
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3694,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 3827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3832,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3832,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 4224
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4061,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 4224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4229,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4229,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 4387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 4530
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4392,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 4530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4535,
+                    "endColumn": 82,
+                    "endOffset": 4613
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4535,
+                        "endColumn": 82,
+                        "endOffset": 4613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4618,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 5133
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4618,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 5133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5138,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 5471
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5138,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 5471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5476,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 5981
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5476,
+                        "endLine": 101,
+                        "endColumn": 12,
+                        "endOffset": 5981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5986,
+                    "endLine": 104,
+                    "endColumn": 12,
+                    "endOffset": 6116
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 5986,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 6116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 6121,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 6458
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6121,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 6458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6463,
+                    "endColumn": 74,
+                    "endOffset": 6533
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 6463,
+                        "endColumn": 74,
+                        "endOffset": 6533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6538,
+                    "endLine": 119,
+                    "endColumn": 12,
+                    "endOffset": 6927
+                },
+                "from": {
+                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6538,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 6927
+                    }
+                }
+            }
+        ]
+    }
+]

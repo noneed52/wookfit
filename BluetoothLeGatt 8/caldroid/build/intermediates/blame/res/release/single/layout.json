@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/release/layout/weekday_textview.xml",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/src/main/res/layout/weekday_textview.xml"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/release/layout/date_grid_fragment.xml",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/src/main/res/layout/date_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/release/layout/calendar_view.xml",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/src/main/res/layout/calendar_view.xml"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/release/layout/square_date_cell.xml",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/src/main/res/layout/square_date_cell.xml"
+    },
+    {
+        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/release/layout/normal_date_cell.xml",
+        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/src/main/res/layout/normal_date_cell.xml"
+    }
+]
