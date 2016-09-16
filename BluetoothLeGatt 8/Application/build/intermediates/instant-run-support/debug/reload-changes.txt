@@ -1,0 +1,5 @@
+CHANGED,/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/SettingsFragment$override.class
+CHANGED,/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/SettingsFragment$2$override.class
+CHANGED,/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/SettingsFragment$3$override.class
+CHANGED,/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/bluetoothlegatt/SettingsFragment$1$override.class

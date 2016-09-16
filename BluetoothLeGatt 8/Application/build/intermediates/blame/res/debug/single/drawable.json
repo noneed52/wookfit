@@ -1,138 +1,138 @@
 [
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/cell_bg_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/cell_bg_dark.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/disable_cell.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/disable_cell.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/red_border.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/red_border.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/exercise_start_selector.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/drawable/exercise_start_selector.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/red_border_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/red_border_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/red_border_gray_bg.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/red_border_gray_bg.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/left_arrow.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/left_arrow.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/disable_cell.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/disable_cell.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/tab_selector.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable/tab_selector.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/radio_button_selector.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/drawable/radio_button_selector.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/red_border_gray_bg.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/red_border_gray_bg.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/exercise_finish_selector.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/drawable/exercise_finish_selector.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/disabled_cell_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/disabled_cell_dark.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/reset_selector.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable/reset_selector.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/red_border.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/red_border.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/reset_selector.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/drawable/reset_selector.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/red_border_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/red_border_dark.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/tab_selector.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/drawable/tab_selector.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/exercise_finish_selector.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable/exercise_finish_selector.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/disabled_cell_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/disabled_cell_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/cell_bg.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/cell_bg.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/radio_button_selector.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable/radio_button_selector.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/cell_bg_dark.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/cell_bg_dark.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/left_arrow.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/left_arrow.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/right_arrow.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/right_arrow.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/cell_bg.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/cell_bg.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/exercise_start_selector.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/drawable/exercise_start_selector.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/right_arrow.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/BluetoothLeGatt 8/caldroid/unspecified/res/drawable/right_arrow.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_dark.xml"
     }
 ]

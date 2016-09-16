@@ -69,7 +69,8 @@
         </activity>
         <activity
             android:name="com.example.android.bluetoothlegatt.DeviceControlActivity"
-            android:theme="@android:style/Theme.NoTitleBar" />
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+            android:windowSoftInputMode="adjustResize" />
 
         <service
             android:name="com.example.android.bluetoothlegatt.BluetoothLeService"

@@ -33,4 +33,9 @@
     <string name="menu_disconnect">Disconnect</string>
     <string name="menu_scan">Scan</string>
     <string name="menu_stop">Stop</string>
+
+    <string-array name="userSentinel">
+        <item>예</item>
+        <item>아니요</item>
+    </string-array>
 </resources>

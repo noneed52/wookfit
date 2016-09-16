@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/menu/main.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
-        "source": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/src/main/res/menu/gatt_services.xml"
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/src/main/res/menu/gatt_services.xml"
     }
 ]

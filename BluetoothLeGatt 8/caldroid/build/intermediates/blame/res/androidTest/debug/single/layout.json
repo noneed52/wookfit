@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/normal_date_cell.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/normal_date_cell.xml"
+    },
+    {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/normal_date_cell.xml",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/normal_date_cell.xml"
     },
@@ -12,11 +16,27 @@
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/date_grid_fragment.xml"
     },
     {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/square_date_cell.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/square_date_cell.xml"
+    },
+    {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/calendar_view.xml",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/calendar_view.xml"
     },
     {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/weekday_textview.xml",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/weekday_textview.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/weekday_textview.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/weekday_textview.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/calendar_view.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/calendar_view.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/layout/date_grid_fragment.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/layout/date_grid_fragment.xml"
     }
 ]

@@ -6,5 +6,13 @@
     {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/debug/color/cell_text_color_dark.xml",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/src/main/res/color/cell_text_color_dark.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/debug/color/cell_text_color_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/src/main/res/color/cell_text_color_dark.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/debug/color/cell_text_color.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/src/main/res/color/cell_text_color.xml"
     }
 ]

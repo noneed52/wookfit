@@ -79,6 +79,7 @@ public class DeviceControlActivity extends FragmentActivity {
     public static int battery = 100;
 
     private String mDeviceAddress;
+    private String mDeviceName;
     private int mDeviceRssi;
     private BluetoothLeService mBluetoothLeService;
     private ArrayList<ArrayList<BluetoothGattCharacteristic>> mGattCharacteristics =
@@ -246,6 +247,7 @@ public class DeviceControlActivity extends FragmentActivity {
         final Intent intent = getIntent();
         mDeviceAddress = intent.getStringExtra(EXTRAS_DEVICE_ADDRESS);
         mDeviceRssi = intent.getIntExtra(EXTRAS_DEVICE_RSSI, 0);
+        mDeviceName = intent.getStringExtra(EXTRAS_DEVICE_NAME);
         battery = Integer.parseInt(SharedPreferenceInfo.getData(mContext, "battery"));
         info = SharedPreferenceInfo.loadExerciseData(mContext);
         ((TextView)findViewById(R.id.title)).setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Medium.ttf"));
@@ -591,9 +593,14 @@ public class DeviceControlActivity extends FragmentActivity {
                 SimpleDateFormat s = new SimpleDateFormat("yyyy-MM-dd-hh:mm:ss");
                 String date = s.format(new Date());
                 processData();
-                String[] dataToArray = new String[]{date, String.valueOf(datAx), String.valueOf(datAy),
-                        String.valueOf(datAz), String.valueOf(datMx), String.valueOf(datMy), String.valueOf(datMz),
-                        String.valueOf(exerciseNo+1), String.valueOf(count / 2), String.valueOf(mDeviceRssi), String.valueOf(battery)};
+                String[] dataToArray = new String[]{
+                        date, String.valueOf(datAx), String.valueOf(datAy),
+                        String.valueOf(datAz), String.valueOf(datMx),
+                        String.valueOf(datMy), String.valueOf(datMz),
+                        String.valueOf(exerciseNo+1), String.valueOf(count / 2),
+                        String.valueOf(mDeviceRssi), String.valueOf(battery),
+                        mDeviceName
+                };
                 DeviceControlActivity.writeToCSV(dataToArray);
                 Network.sendPostExerciseData(mContext, dataToArray);
             }
@@ -674,7 +681,7 @@ public class DeviceControlActivity extends FragmentActivity {
                 writer = new CSVWriter(new FileWriter(filePath));
                 writer.writeNext(new String[]{"Time", "Acc_X", "Acc_Y", "Acc_Z",
                         "Mag_X", "Mag_Y", "Mag_Z", "Exe_Type", "Basic Algorithm Count",
-                        "RSSI", "Battery"});
+                        "RSSI", "Battery", "DeviceName"});
                 writer.close();
             }
 

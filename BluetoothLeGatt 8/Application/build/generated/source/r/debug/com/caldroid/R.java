@@ -22,21 +22,21 @@ public final class R {
 		public static final int styleCaldroidWeekdayView = 0x7f01000a;
 	}
 	public static final class color {
-		public static final int caldroid_333 = 0x7f0c0012;
-		public static final int caldroid_555 = 0x7f0c0013;
-		public static final int caldroid_black = 0x7f0c0014;
-		public static final int caldroid_darker_gray = 0x7f0c0015;
-		public static final int caldroid_gray = 0x7f0c0016;
-		public static final int caldroid_holo_blue_dark = 0x7f0c0017;
-		public static final int caldroid_holo_blue_light = 0x7f0c0018;
-		public static final int caldroid_light_red = 0x7f0c0019;
-		public static final int caldroid_lighter_gray = 0x7f0c001a;
-		public static final int caldroid_middle_gray = 0x7f0c001b;
-		public static final int caldroid_sky_blue = 0x7f0c001c;
-		public static final int caldroid_transparent = 0x7f0c001d;
-		public static final int caldroid_white = 0x7f0c001e;
-		public static final int cell_text_color = 0x7f0c0049;
-		public static final int cell_text_color_dark = 0x7f0c004a;
+		public static final int caldroid_333 = 0x7f0d0012;
+		public static final int caldroid_555 = 0x7f0d0013;
+		public static final int caldroid_black = 0x7f0d0014;
+		public static final int caldroid_darker_gray = 0x7f0d0015;
+		public static final int caldroid_gray = 0x7f0d0016;
+		public static final int caldroid_holo_blue_dark = 0x7f0d0017;
+		public static final int caldroid_holo_blue_light = 0x7f0d0018;
+		public static final int caldroid_light_red = 0x7f0d0019;
+		public static final int caldroid_lighter_gray = 0x7f0d001a;
+		public static final int caldroid_middle_gray = 0x7f0d001b;
+		public static final int caldroid_sky_blue = 0x7f0d001c;
+		public static final int caldroid_transparent = 0x7f0d001d;
+		public static final int caldroid_white = 0x7f0d001e;
+		public static final int cell_text_color = 0x7f0d0049;
+		public static final int cell_text_color_dark = 0x7f0d004a;
 	}
 	public static final class drawable {
 		public static final int calendar_arrow_left = 0x7f02003c;
@@ -54,14 +54,14 @@ public final class R {
 		public static final int right_arrow = 0x7f02006d;
 	}
 	public static final class id {
-		public static final int calendar_gridview = 0x7f0d0055;
-		public static final int calendar_left_arrow = 0x7f0d0050;
-		public static final int calendar_month_year_textview = 0x7f0d0051;
-		public static final int calendar_right_arrow = 0x7f0d0052;
-		public static final int calendar_title_view = 0x7f0d004f;
-		public static final int calendar_tv = 0x7f0d0092;
-		public static final int months_infinite_pager = 0x7f0d0054;
-		public static final int weekday_gridview = 0x7f0d0053;
+		public static final int calendar_gridview = 0x7f0e0055;
+		public static final int calendar_left_arrow = 0x7f0e0050;
+		public static final int calendar_month_year_textview = 0x7f0e0051;
+		public static final int calendar_right_arrow = 0x7f0e0052;
+		public static final int calendar_title_view = 0x7f0e004f;
+		public static final int calendar_tv = 0x7f0e0092;
+		public static final int months_infinite_pager = 0x7f0e0054;
+		public static final int weekday_gridview = 0x7f0e0053;
 	}
 	public static final class layout {
 		public static final int calendar_view = 0x7f03001a;

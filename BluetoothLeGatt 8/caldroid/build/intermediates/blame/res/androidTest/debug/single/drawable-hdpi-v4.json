@@ -8,11 +8,27 @@
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_prev_arrow.png"
     },
     {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_prev_arrow.png",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_prev_arrow.png"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_next_arrow.png",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_next_arrow.png"
+    },
+    {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_arrow_left.png",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_left.png"
     },
     {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_arrow_right.png",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_right.png"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_arrow_left.png",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_left.png"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/calendar_arrow_right.png",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable-hdpi-v4/calendar_arrow_right.png"
     }
 ]

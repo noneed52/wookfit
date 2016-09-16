@@ -22,6 +22,7 @@ public class Util {
         else {
             return Settings.Secure.getString(context.getContentResolver(),
                     Settings.Secure.ANDROID_ID);
+//            return null;
         }
     }
 }

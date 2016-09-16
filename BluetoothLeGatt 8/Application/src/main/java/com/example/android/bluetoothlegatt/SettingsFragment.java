@@ -6,8 +6,15 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.inputmethod.InputMethodManager;
+import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.RadioButton;
+import android.widget.Spinner;
 import android.widget.TextView;
+
+import net.yslibrary.android.keyboardvisibilityevent.KeyboardVisibilityEvent;
+import net.yslibrary.android.keyboardvisibilityevent.KeyboardVisibilityEventListener;
 
 /**
  * Created by kane on 15. 11. 30..
@@ -28,6 +35,9 @@ public class SettingsFragment extends Fragment implements View.OnClickListener {
         getView().findViewById(R.id.closeBtn).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                saveData();
+                final InputMethodManager imm = (InputMethodManager) getActivity().getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(getView().getWindowToken(), 0);
                 getActivity().getFragmentManager().beginTransaction().remove(frag).commit();
             }
         });
@@ -54,6 +64,27 @@ public class SettingsFragment extends Fragment implements View.OnClickListener {
         else
             ((TextView)getView().findViewById(R.id.battery)).setText(DeviceControlActivity.battery + "%");
         loadBandType();
+        Spinner yearSpinner = (Spinner)getView().findViewById(R.id.userSentinel);
+        ArrayAdapter yearAdapter = ArrayAdapter.createFromResource(getView().getContext(),
+                R.array.userSentinel, android.R.layout.simple_spinner_item);
+        yearAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        yearSpinner.setAdapter(yearAdapter);
+
+        loadData();
+        KeyboardVisibilityEvent.setEventListener(getActivity(), new KeyboardVisibilityEventListener() {
+            @Override
+            public void onVisibilityChanged(boolean isOpen) {
+                if(getView() != null) {
+                    View view = getView().findViewById(R.id.resetBtn);
+                    if(view != null) {
+                        if(isOpen)
+                            view.setVisibility(View.GONE);
+                        else
+                            view.setVisibility(View.VISIBLE);
+                    }
+                }
+            }
+        });
     }
 
     @Override
@@ -127,5 +158,49 @@ public class SettingsFragment extends Fragment implements View.OnClickListener {
             default:
                 break;
         }
+    }
+
+    private void loadData() {
+        String userName = SharedPreferenceInfo.getData(getView().getContext(), "userName");
+        String userAge = SharedPreferenceInfo.getData(getView().getContext(), "userAge");
+        String userHeight = SharedPreferenceInfo.getData(getView().getContext(), "userHeight");
+        String userWeight = SharedPreferenceInfo.getData(getView().getContext(), "userWeight");
+        String userSentinel = SharedPreferenceInfo.getData(getView().getContext(), "userSentinel");
+        String userTarget = SharedPreferenceInfo.getData(getView().getContext(), "userTarget");
+
+        if(!userName.equals("0"))
+            ((EditText)getView().findViewById(R.id.userName)).setText(userName);
+        if(!userAge.equals("0"))
+            ((EditText)getView().findViewById(R.id.userAge)).setText(userAge);
+        if(!userHeight.equals("0"))
+            ((EditText)getView().findViewById(R.id.userHeight)).setText(userHeight);
+        if(!userWeight.equals("0"))
+            ((EditText)getView().findViewById(R.id.userWeight)).setText(userWeight);
+        if(!userSentinel.equals("0"))
+            ((Spinner)getView().findViewById(R.id.userSentinel)).setSelection(Integer.parseInt(userSentinel));
+        if(!userTarget.equals("0"))
+            ((EditText)getView().findViewById(R.id.userTarget)).setText(userTarget);
+    }
+
+    private void saveData() {
+        String userName = ((EditText)getView().findViewById(R.id.userName)).getText().toString();
+        String userAge = ((EditText)getView().findViewById(R.id.userAge)).getText().toString();
+        String userHeight = ((EditText)getView().findViewById(R.id.userHeight)).getText().toString();
+        String userWeight = ((EditText)getView().findViewById(R.id.userWeight)).getText().toString();
+        String userSentinel = String.valueOf(((Spinner)getView().findViewById(R.id.userSentinel)).getSelectedItemPosition());
+        String userTarget = ((EditText)getView().findViewById(R.id.userTarget)).getText().toString();
+
+        if(!userName.equals(""))
+            SharedPreferenceInfo.saveData(getView().getContext(), "userName", userName);
+        if(!userAge.equals(""))
+            SharedPreferenceInfo.saveData(getView().getContext(), "userAge", userAge);
+        if(!userHeight.equals(""))
+            SharedPreferenceInfo.saveData(getView().getContext(), "userHeight", userHeight);
+        if(!userWeight.equals(""))
+            SharedPreferenceInfo.saveData(getView().getContext(), "userWeight", userWeight);
+        SharedPreferenceInfo.saveData(getView().getContext(), "userSentinel", userSentinel);
+        if(!userTarget.equals(""))
+            SharedPreferenceInfo.saveData(getView().getContext(), "userTarget", userTarget);
+        Network.sendPostUserData(getView().getContext());
     }
 }

@@ -53,7 +53,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".DeviceControlActivity" android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity android:name=".DeviceControlActivity"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+            android:windowSoftInputMode="adjustResize"/>
         <service android:name=".BluetoothLeService" android:enabled="true"/>
     </application>
 </manifest>

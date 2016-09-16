@@ -41,4 +41,5 @@ dependencies {
     compile 'com.android.support:support-v4:22.2.0'
     compile 'com.android.support:appcompat-v7:22.2.0'
     compile 'com.koushikdutta.ion:ion:2.+'
+    compile 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:1.0.1'
 }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-xlarge-land/values-xlarge-land.xml",
+                    "file": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-xlarge-land/values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

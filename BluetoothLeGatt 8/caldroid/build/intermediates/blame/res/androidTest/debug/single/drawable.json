@@ -1,5 +1,21 @@
 [
     {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/disable_cell.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/disable_cell.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/red_border_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/red_border_dark.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/left_arrow.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/left_arrow.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/red_border_gray_bg.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/red_border_gray_bg.xml"
+    },
+    {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/cell_bg_dark.xml",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/cell_bg_dark.xml"
     },
@@ -8,8 +24,28 @@
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/cell_bg.xml"
     },
     {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/cell_bg.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/cell_bg.xml"
+    },
+    {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/disable_cell.xml",
         "source": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/disable_cell.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/red_border.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/red_border.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/cell_bg_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/cell_bg_dark.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/disabled_cell_dark.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/disabled_cell_dark.xml"
+    },
+    {
+        "merged": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/right_arrow.xml",
+        "source": "/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/caldroid/build/intermediates/bundles/debug/res/drawable/right_arrow.xml"
     },
     {
         "merged": "/Users/kane/Downloads/BluetoothLeGatt 8/caldroid/build/intermediates/res/merged/androidTest/debug/drawable/red_border_gray_bg.xml",

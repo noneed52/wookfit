@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="21"
+    api-level="19"
     density="xxhdpi"
     format="7"
-    timestamp="18537565862994"
-    token="1872122783586435387" >
+    timestamp="12149039947990"
+    token="2680104706366562873" >
 
     <task
         name="javac"
-        duration="919" />
+        duration="758" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="425" />
+        duration="36" />
     <task
         name="verifier"
-        duration="120" />
+        duration="11" />
 
     <artifact
-        location="/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/outputs/apk/Application-debug.apk"
+        location="/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/outputs/apk/Application-debug.apk"
         type="MAIN" />
 
-    <build timestamp="18537565862994" >
+    <build timestamp="12149039947990" >
         <artifact
-            location="/Users/kane/Downloads/BluetoothLeGatt 8/Application/build/outputs/apk/Application-debug.apk"
+            location="/Users/kane/Documents/AndroidStudioProjects/wookfit/BluetoothLeGatt 8/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
 
